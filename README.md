@@ -69,5 +69,7 @@ I thrive on solving problems with data, deploying intelligent solutions, and con
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitYesade22&theme=react-dark&hide_border=false&area=true&radius=10&color=00FF7F"_
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitYesade22&theme=react-dark&hide_border=false&area=true&radius=10&color=00FF7F" width="100%" /> 
+</p>
+
 
