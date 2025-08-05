@@ -43,15 +43,6 @@ I thrive on solving problems with data, deploying intelligent solutions, and con
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitYesade22&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=58A6FF&text_color=E0E0E0&bg_color=0D1117" width="48%" />
 </p>
 
----
-
-### ✨ Current Vibe
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Shipping+ML+Projects+End-to-End.;Exploring+Generative+AI+deeply.;Turning+data+into+intelligent+products.&font=Fira+Code&center=true&width=600&height=45&color=FFA07A&vCenter=true&size=24" />
-</p>
-
----
 
 ### 🔗 Let's Connect
 
