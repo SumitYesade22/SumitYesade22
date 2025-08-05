@@ -27,20 +27,20 @@ I thrive on solving problems with data, deploying intelligent solutions, and con
 
 ### 🧩 Favorite Tools & Learning Stack
 
-- 📦 **MLOps**: MLflow, DVC, Airflow, Prefect, Kubeflow
-- 🧠 **ML/AI**: Scikit-learn, PyTorch, TensorFlow, XGBoost, HuggingFace Transformers
-- 🔄 **Workflow & Versioning**: Git, DVC, Weights & Biases, GitHub Actions
-- ☁️ **Cloud & Deployment**: AWS S3 & Lambda, GCP Vertex AI, Docker, FastAPI
-- 🤖 **GenAI Interests**: LLMs, LangChain, Vector DBs (FAISS, Pinecone), RAG
-- 🔬 **Currently Exploring**: RLHF, MLOps with GenAI, and LangGraph for agent workflows
+- 📦 **MLOps**: MLflow, DVC, Airflow, Prefect, Kubeflow  
+- 🧠 **ML/AI**: Scikit-learn, PyTorch, TensorFlow, XGBoost, HuggingFace Transformers  
+- 🔄 **Workflow & Versioning**: Git, DVC, Weights & Biases, GitHub Actions  
+- ☁️ **Cloud & Deployment**: AWS S3 & Lambda, GCP Vertex AI, Docker, FastAPI  
+- 🤖 **GenAI Interests**: LLMs, LangChain, Vector DBs (FAISS, Pinecone), RAG  
+- 🔬 **Currently Exploring**: RLHF, MLOps for GenAI, LangGraph, Retrieval-Augmented Generation  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumityesade&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&title_color=58A6FF&icon_color=FF6EC7&text_color=E0E0E0&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumityesade&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=58A6FF&text_color=E0E0E0&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SumitYesade22&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&title_color=58A6FF&icon_color=FF6EC7&text_color=E0E0E0&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitYesade22&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=58A6FF&text_color=E0E0E0&bg_color=0D1117" width="48%" />
 </p>
 
 ---
@@ -69,5 +69,5 @@ I thrive on solving problems with data, deploying intelligent solutions, and con
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumityesade&theme=react-dark&hide_border=false&area=true&radius=10&color=00FF7F" width="100%" /> 
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitYesade22&theme=react-dark&hide_border=false&area=true&radius=10&color=00FF7F"_
+
